@@ -1,0 +1,9 @@
+{
+  "name": "superheroes-test",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "dependencies": {
+    "superheroes": "^2.0.0"
+  }
+}
