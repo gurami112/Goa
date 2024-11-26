@@ -43,10 +43,10 @@ const createDayFolders = (startDay, endDay) => {
   } catch (err) {
     console.error("Error creating day folders:", err);
   }
-};
+};  
 
 // Specify the range of days to create
-const startDay = 125;
-const endDay = 126;
+const startDay = 126;
+const endDay = 128;
 
 createDayFolders(startDay, endDay);

@@ -1,1 +1,0 @@
-// This is the app.js file inside Day 115/classwork
